@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/D_system_poc.iml" filepath="$PROJECT_DIR$/.idea/modules/D_system_poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/D_system_poc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/D_system_poc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buttons/D_system_poc.buttons.iml" filepath="$PROJECT_DIR$/.idea/modules/buttons/D_system_poc.buttons.iml" />
+    </modules>
+  </component>
+</project>
